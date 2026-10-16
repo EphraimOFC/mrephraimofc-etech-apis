@@ -1,0 +1,17 @@
+{
+  "name": "mrephraimofc-etech-apis",
+  "version": "2.0.0",
+  "description": "Super Fast Free API by Mr Ephraim Ofc - E TECH OFC - YT, FB, Tiktok, IG, Spotify, Twitter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mr Ephraim Ofc - E TECH OFC",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.5",
+    "btch-downloader": "^2.2.6"
+  }
+}
